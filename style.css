@@ -4,3 +4,6 @@ body{
 h1{
     font-size:30px;
 }
+nav{
+    border:1px solid green;
+}
